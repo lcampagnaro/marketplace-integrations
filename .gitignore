@@ -1,0 +1,17 @@
+# Credenciais e ambiente
+.env
+
+# Dependências
+vendor/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
