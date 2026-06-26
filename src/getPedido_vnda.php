@@ -2,7 +2,8 @@
 /**
  * Integração VNDA
  * Busca pedido por ID, normaliza os dados e persiste na tabela
- * plac.preEnvio para processamento logístico.
+ * preEnvio para processamento logístico.
+ * no formato padrão do sistema próprio - ajuste conforme sua necessidade.
  *
  * GET /getPedido_vnda.php?id=12345
  */
