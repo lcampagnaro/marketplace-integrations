@@ -2,7 +2,7 @@
 /**
  * Integração Tiny ERP
  * Busca pedido pelo número, obtém detalhes completos e retorna
- * dados normalizados no formato padrão do sistema PLAC.
+ * no formato padrão do sistema próprio - ajuste conforme sua necessidade.
  *
  * GET /getPedido.php?numero=12345
  */
