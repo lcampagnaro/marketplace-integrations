@@ -2,7 +2,7 @@
 /**
  * Integração Plataforma Soma (Swagger)
  * Busca pedido por ID via API REST e retorna dados normalizados
- * no formato padrão do sistema PLAC.
+ * no formato padrão do sistema próprio - ajuste conforme sua necessidade.
  *
  * GET /getPedido_soma.php?id=12345
  */
